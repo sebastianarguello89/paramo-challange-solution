@@ -1,0 +1,9 @@
+C:\paramo-challenge\Sat.Recruitment.Model\bin\Debug\netcoreapp3.1\Sat.Recruitment.Model.deps.json
+C:\paramo-challenge\Sat.Recruitment.Model\bin\Debug\netcoreapp3.1\Sat.Recruitment.Model.dll
+C:\paramo-challenge\Sat.Recruitment.Model\bin\Debug\netcoreapp3.1\Sat.Recruitment.Model.pdb
+C:\paramo-challenge\Sat.Recruitment.Model\obj\Debug\netcoreapp3.1\Sat.Recruitment.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\paramo-challenge\Sat.Recruitment.Model\obj\Debug\netcoreapp3.1\Sat.Recruitment.Model.AssemblyInfoInputs.cache
+C:\paramo-challenge\Sat.Recruitment.Model\obj\Debug\netcoreapp3.1\Sat.Recruitment.Model.AssemblyInfo.cs
+C:\paramo-challenge\Sat.Recruitment.Model\obj\Debug\netcoreapp3.1\Sat.Recruitment.Model.csproj.CoreCompileInputs.cache
+C:\paramo-challenge\Sat.Recruitment.Model\obj\Debug\netcoreapp3.1\Sat.Recruitment.Model.dll
+C:\paramo-challenge\Sat.Recruitment.Model\obj\Debug\netcoreapp3.1\Sat.Recruitment.Model.pdb

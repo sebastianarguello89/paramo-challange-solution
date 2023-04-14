@@ -1,0 +1,17 @@
+C:\paramo-challenge\Sat.Recruitment.Business\bin\Debug\netcoreapp3.1\Sat.Recruitment.Business.deps.json
+C:\paramo-challenge\Sat.Recruitment.Business\bin\Debug\netcoreapp3.1\Sat.Recruitment.Business.dll
+C:\paramo-challenge\Sat.Recruitment.Business\bin\Debug\netcoreapp3.1\Sat.Recruitment.Business.pdb
+C:\paramo-challenge\Sat.Recruitment.Business\bin\Debug\netcoreapp3.1\Sat.Recruitment.DataAccess.dll
+C:\paramo-challenge\Sat.Recruitment.Business\bin\Debug\netcoreapp3.1\Sat.Recruitment.Model.dll
+C:\paramo-challenge\Sat.Recruitment.Business\bin\Debug\netcoreapp3.1\Sat.Recruitment.Service.dll
+C:\paramo-challenge\Sat.Recruitment.Business\bin\Debug\netcoreapp3.1\Sat.Recruitment.Model.pdb
+C:\paramo-challenge\Sat.Recruitment.Business\bin\Debug\netcoreapp3.1\Sat.Recruitment.Service.pdb
+C:\paramo-challenge\Sat.Recruitment.Business\bin\Debug\netcoreapp3.1\Sat.Recruitment.DataAccess.pdb
+C:\paramo-challenge\Sat.Recruitment.Business\obj\Debug\netcoreapp3.1\Sat.Recruitment.Business.csproj.AssemblyReference.cache
+C:\paramo-challenge\Sat.Recruitment.Business\obj\Debug\netcoreapp3.1\Sat.Recruitment.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\paramo-challenge\Sat.Recruitment.Business\obj\Debug\netcoreapp3.1\Sat.Recruitment.Business.AssemblyInfoInputs.cache
+C:\paramo-challenge\Sat.Recruitment.Business\obj\Debug\netcoreapp3.1\Sat.Recruitment.Business.AssemblyInfo.cs
+C:\paramo-challenge\Sat.Recruitment.Business\obj\Debug\netcoreapp3.1\Sat.Recruitment.Business.csproj.CoreCompileInputs.cache
+C:\paramo-challenge\Sat.Recruitment.Business\obj\Debug\netcoreapp3.1\Sat.Recruitment.Business.dll
+C:\paramo-challenge\Sat.Recruitment.Business\obj\Debug\netcoreapp3.1\Sat.Recruitment.Business.pdb
+C:\paramo-challenge\Sat.Recruitment.Business\obj\Debug\netcoreapp3.1\Sat.Recruitment.Business.csproj.CopyComplete

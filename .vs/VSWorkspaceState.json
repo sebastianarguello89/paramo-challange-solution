@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Sat.Recruitment.Api",
+    "\\Sat.Recruitment.DataAccess",
+    "\\Sat.Recruitment.DataAccess\\EF",
+    "\\Sat.Recruitment.Test"
+  ],
+  "SelectedNode": "\\Sat.Recruitment.Test\\UserBusinessTest.cs",
+  "PreviewInSolutionExplorer": false
+}

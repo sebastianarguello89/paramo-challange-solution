@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Sat.Recruitment.Model/1.0.0": {
+        "runtime": {
+          "Sat.Recruitment.Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sat.Recruitment.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
