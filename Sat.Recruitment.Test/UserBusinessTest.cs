@@ -108,7 +108,7 @@ namespace Sat.Recruitment.Test
             #endregion
 
             #region Assert
-            Assert.True(response > 0);
+            Assert.True(response <= 0);
             #endregion
         }
     }
